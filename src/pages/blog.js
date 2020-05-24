@@ -14,8 +14,9 @@ class Blog extends React.Component {
     const posts = data.allMdx.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location}>
         <SEO title="All posts" />
+        <h1>Notes</h1>
         <Bio />
         <div style={{ margin: "20px 0 40px" }}>
           {posts.map(({ node }) => {
@@ -45,7 +46,7 @@ class Blog extends React.Component {
           })}
         </div>
         <Link to="/">
-          <Button marginTop="85px">Go Home</Button>
+          <Button marginTop="85px">More About Jaymes</Button>
         </Link>
       </Layout>
     )

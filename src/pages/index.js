@@ -7,29 +7,34 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = "Jaymes Downer"
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location}>
         <SEO
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+
         <h1>
-          Hey people{" "}
-          <span role="img" aria-label="wave emoji">
-            👋
+          Hey party people{" "}
+          <span role="img" aria-label="peace emoji">
+            ✌🏼
           </span>
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
-        <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+        {/* <img style={{ margin: 0 }} src={"../../content/assets/profile-pic.jpg"} alt="Jaymes Downer" /> */}
+        <p>My name is <i><b>Jaymes</b></i>, and I lead the amazing Product Team at <a href="https://filmandmusic.com/" target="_blank">F&M</a>.</p>
+        <p>We serve the creative community by providing platforms for the best stock music and footage at <a href="https://musicbed.com" target="_blank">Musicbed</a> and <a href="https://filmsupply.com" target="_blank">Filmsupply</a>. I don't just say that because I work there... we have partnered with some of the best musicians and filmmakers in the world!</p>
+        <p>Our Product Team is spread all around the world, and is full of some of the best people I’ve ever met.{" "}
+          <span role="img" aria-label="raised hands emoji">
+            🌎 ✈️ 👨🏼‍💻 👩🏾‍💻 🙌🏼
+          </span>
         </p>
-        <p>Now go build something great!</p>
+        <p><i><b>I’m passionate about technology, but have grown even more passionate about leadership and helping team members see and reach their full potential.</b></i></p>
+        <p>I ocassionally write about leadership, growth, and technology.</p>
+        <p><b>If there is anything I can do to help you, please let me know!</b></p>
         <Link to="/blog/">
-          <Button marginTop="35px">Go to Blog</Button>
+          <Button marginTop="35px">Checkout My Blog</Button>
         </Link>
       </Layout>
     )

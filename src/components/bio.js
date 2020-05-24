@@ -36,8 +36,14 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong> who is VP of Product at Musicbed and Filmsupply building the best stock footage and music products for creatives.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
+              <a href={`https://twitter.com/${social.twitter}`} target="_blank">
                 Follow him on Twitter
+              </a>
+              {` `}
+              or
+              {` `}
+              <a href={`https://linkedin.com/in/${social.twitter}`} target="_blank">
+                learn about his work history on LinkedIn
               </a>
             </p>
           </Container>
