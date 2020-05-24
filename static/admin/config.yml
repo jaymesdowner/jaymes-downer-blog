@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo:jaymesdowner/jaymes-downer-blog
+  repo: jaymesdowner/jaymes-downer-blog
 
 media_folder: static/assets
 public_folder: assets
