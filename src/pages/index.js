@@ -7,7 +7,6 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Jaymes Downer"
 
     return (
       <Layout location={this.props.location}>
@@ -17,14 +16,14 @@ class IndexPage extends React.Component {
         />
 
         <h1>
-          Hey party people{" "}
+          Hello World{" "}
           <span role="img" aria-label="peace emoji">
             ✌🏼
           </span>
         </h1>
         {/* <img style={{ margin: 0 }} src={"../../content/assets/profile-pic.jpg"} alt="Jaymes Downer" /> */}
-        <p>My name is <i><b>Jaymes</b></i>, and I lead the amazing Product Team at <a href="https://filmandmusic.com/" target="_blank">F&M</a>.</p>
-        <p>We serve the creative community by providing platforms for the best stock music and footage at <a href="https://musicbed.com" target="_blank">Musicbed</a> and <a href="https://filmsupply.com" target="_blank">Filmsupply</a>. I don't just say that because I work there... we have partnered with some of the best musicians and filmmakers in the world!</p>
+        <p>My name is <i><b>Jaymes</b></i>, and I lead the amazing Product Team at <a href="https://filmandmusic.com/" target="_blank" rel="noopener noreferrer">F&M</a>.</p>
+        <p>We serve the creative community by providing platforms for the best stock music and footage at <a href="https://musicbed.com" target="_blank" rel="noopener noreferrer">Musicbed</a> and <a href="https://filmsupply.com" target="_blank" rel="noopener noreferrer">Filmsupply</a>. I don't just say that because I work there... we truly have partnered with some of the best musicians and filmmakers around!</p>
         <p>Our Product Team is spread all around the world, and is full of some of the best people I’ve ever met.{" "}
           <span role="img" aria-label="raised hands emoji">
             🌎 ✈️ 👨🏼‍💻 👩🏾‍💻 🙌🏼

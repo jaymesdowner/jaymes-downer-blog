@@ -4,7 +4,7 @@ module.exports = {
     title: `Jaymes Downer`,
     author: `Jaymes Downer`,
     description: `Product VP leading a team of designers and engineers spread around the world!`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://jaymesdowner.com/`,
     social: {
       twitter: `jaymesdowner`,
       linkedin: `jaymesdowner`,
@@ -78,7 +78,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/jaymes-downer.png`,
       },
     },
     {

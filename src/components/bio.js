@@ -34,15 +34,15 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who is VP of Product at Musicbed and Filmsupply building the best stock footage and music products for creatives.
+              All posts written by <strong>{author}</strong> who is VP of Product at <a href="https://filmandmusic.com" target="_blank" rel="noopener noreferrer">F&M</a>.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`} target="_blank">
+              <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
                 Follow him on Twitter
               </a>
               {` `}
               or
               {` `}
-              <a href={`https://linkedin.com/in/${social.twitter}`} target="_blank">
+              <a href={`https://linkedin.com/in/${social.twitter}`} target="_blank" rel="noopener noreferrer">
                 learn about his work history on LinkedIn
               </a>
             </p>
