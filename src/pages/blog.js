@@ -46,7 +46,7 @@ class Blog extends React.Component {
         <hr/>
         <Bio />
         <Link to="/">
-          <Button marginTop="85px">More About Jaymes</Button>
+          <Button marginTop="85px">Home</Button>
         </Link>
       </Layout>
     )

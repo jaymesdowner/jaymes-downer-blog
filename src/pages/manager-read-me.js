@@ -85,6 +85,9 @@ class ManagerReadMePage extends React.Component {
 
         <hr />
         <p>I also <Link to="/blog/">ocassionally write</Link> about leadership, growth, and technology.</p>
+        <Link to="/">
+          <Button marginTop="85px">Home</Button>
+        </Link>
 
       </Layout>
     )

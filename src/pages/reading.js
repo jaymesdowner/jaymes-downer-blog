@@ -27,7 +27,7 @@ class ReadingPage extends React.Component {
           <p>In light of recent events, I've adjusted my reading queue and am currently reading <i>'White Fragility - Why It's So Hard for White People to Talk About Racism'</i>.</p>
         </blockquote>
 
-        <p>Here are some of my favorite books on leadership and growth. If you want to talk about any of these books, or the ideas they represent, I love a great conversation!</p>
+        <p>Here are some of my favorite books on leadership and growth. If you want to talk about any of these books, or the ideas they represent, I love a great conversation! <a href={`https://twitter.com/jaymesdowner`} target="_blank" rel="noopener noreferrer">Hit me up on Twitter</a>.</p>
 
         <h3>Radical Candor</h3>
         <p>If you haven't read <i>Radical Candor</i>, please don't waste anymore time on my website. <b>Go read this book now!</b> All joking aside, this booked helped me speak more candidly to my boss, my direct reports, and my wife; all without being an a**hole (as the author so gracefully puts it). This is one of the best books on communication I have ever read.</p>
@@ -43,6 +43,9 @@ class ReadingPage extends React.Component {
 
         <hr/>
         <p>I also <Link to="/blog/">ocassionally write</Link> about leadership, growth, and technology.</p>
+        <Link to="/">
+          <Button marginTop="85px">Home</Button>
+        </Link>
 
       </Layout>
     )
