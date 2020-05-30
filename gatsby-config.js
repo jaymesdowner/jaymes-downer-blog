@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `Jaymes Downer`,
     author: `Jaymes Downer`,
-    description: `Product VP leading a team of designers and engineers spread around the world!`,
+    description: `Jaymes Downer is a Product VP leading a team of designers and engineers spread around the world! His focus is on building great products as well as great individuals.`,
     siteUrl: `https://jaymesdowner.com/`,
     social: {
       twitter: `jaymesdowner`,

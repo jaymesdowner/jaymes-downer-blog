@@ -32,10 +32,10 @@ class IndexPage extends React.Component {
         <p>Here are some of my <Link to="/reading/">favorite books of about leadership and growth</Link>.</p>
         <p>I also <Link to="/blog/">ocassionally write</Link> about leadership, growth, and technology.</p>
         
+        <p>If you are curious how I work as a manager, I created a <Link to="/manager-read-me">manager read me</Link>.</p>
+
         <p><b>If there is anything I can do to help you, please let me know!</b></p>
-        {/* <Link to="/blog/">
-          <Button marginTop="35px">Checkout My Blog</Button>
-        </Link> */}
+        
       </Layout>
     )
   }
