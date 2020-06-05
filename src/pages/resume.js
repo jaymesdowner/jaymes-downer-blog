@@ -26,39 +26,42 @@ class ResumePage extends React.Component {
         </h1>
 
         <h2>Vice President of Product</h2>
-        
-        <p>I lead a team of distributed designers and engineers that are responsible for building and maintainingmultiple products. <b>My primary goal is to invest in my team.</b> </p>
+        <p></p>
+        <p>I lead a team of distributed designers and engineers that are responsible for building and maintaining multiple products for F&M (Filmsupply & Musicbed). <b>My primary goal is to invest in my team and help each team member see and reach their full potential.</b> I work on our Executive Lead Team and help set the vision and roadmap for all of our products.</p>
+        <p><b>I'm passionate about the intersection of technology and people.</b> I love working on products that make peoples lives better! I also love the opportunity that working in technology brings to everyone on my team!</p>
         
         <h3>Work Experience</h3>
 
         <h4 style={tightH4}>Vice President of Product</h4>
         <p><i>F&M | Sept 2019 - Present</i></p>
         <p>As VP of Product, I had 3 main objectives when I started:</p>
-        <p>Create a clear career path for all Designers and Engineers to help inspire and motivate growth.</p>
-        <p>Increase salaries for underpaid team members and create a clear salary structure so expectations were clear.</p>
-         
-        <ul>
-          <li>Something cool I did.</li>
-          <li>Something else</li>
-          <li>More stuff</li>
-          <li>Almost done</li>
-          <li>Last thing</li>
-        </ul>
+        <p><b>Increase diversity of our Product Team.</b> I believe the current software industry is a gift, and one worth sharing. The opportunities available right now have the ability to drastically change someones life. When I took over the team, it was primarily white males. I wanted that to change. Since then, I've had the pleasure of hiring four engineers. Three of those engineers are Black. Two are Black females. This use to make me a bit uncomfortable for some reason. <b>But I believe it's our responsibility to reach deeper into the pool of candidates to find underrepresented individuals and give them an opportunity.</b></p>
+        <p><b>Create a clear career path for all Designers and Engineers to help inspire and motivate growth.</b> Expectations were not clear for all team members, and few people knew what they could do to grow and increase ownership and compensation.</p>
+        <p><b>Create a clear and transparent salary structure.</b> Over the years, people were brought in at much different salaries based on the state of the company at the time. <b>I needed to create a new system that rewarded scope of influence, knowledge, skill level, and ownership.</b> This created some large disparaties between team members that wasn't necessary. Some of our more tenured team members received raises to get them in line with my newly outlined structure.</p>
+        <p>My focus was primarily on the individuals on my team, so I needed to pair that with some organizational changes and procedures to help these individuals be as successful as possible, and help our products be a success as well. I transitioned our team from a flat structure to a structure of leads that could help train the less experienced team members. This has been a huge success! I have not hired a Director of Engineering, so I maintain most of those responsibilities currently.</p>
+        
 
         <h4 style={tightH4}>Director of Engineering</h4>
         <p><i>F&M | Aug 2018 - Sept 2019</i></p>
         <p>Bridged the gap between our engineering department and the rest of the company. I helped set and maintain scope, estimates, timelines, and communication for all projects. I worked with lead team members from other departments in the company to field bug reports and new feature requests for our web and mobile products. I worked closely with our back end and front end engineers to ensure project scope and estimations were complete and accurate. I also helped determine what the best plan of action was once we are ready to begin a project.</p>
 
         <ul>
-          <li>Setup</li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Helped outline and lead the build of a new subscription based pricing structure.</li>
+          <li>Created a Career Path document for our Engineers to help create clear expectations and a growth path for all team members.</li>
+          <li>Implemented a Professional Development budget for all team members to help encourage learning and growth.</li>
+          <li>Led a team of all managers from other departments to keep communication clear and build bridges between departments.</li>
         </ul>
         
         <h4 style={tightH4}>Product Manager</h4>
         <p><i>F&M | Sept 2014 - Aug 2018</i></p>
-        <p>Helped streamline project workflows and reporting to increase efficiency and visibility of the work the Engineering team was doing.</p>
+        <p>Helped streamline project workflows and reporting to increase efficiency and visibility of the work the Engineering team was doing. Worked closely with the Engineering team to determine best workflow and project management procedures.</p>
+        <ul>
+          <li>Split time between Product Management and IC front end engineer building complex applications.</li>
+          <li>Helped build and launch a new product, filmsupply.com.</li>
+          <li>Lead the team as we transitioned from a legacy jquery/Angular codebase over to a React SPA.</li>
+        </ul>
+
+
         
         
         <hr/>
