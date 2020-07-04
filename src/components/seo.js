@@ -49,6 +49,10 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: metaDescription,
         },
         {
+          property: `og:image`,
+          content: profile,
+        },
+        {
           property: `og:type`,
           content: `website`,
         },

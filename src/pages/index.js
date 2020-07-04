@@ -3,7 +3,6 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import profile from '../../content/assets/profile-pic.jpg';
 
 class IndexPage extends React.Component {
   render() {
@@ -24,8 +23,6 @@ class IndexPage extends React.Component {
 
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <p>My name is <i><b>Jaymes</b></i>, and I lead the amazing Product Team at <a href="https://filmandmusic.com/" target="_blank" rel="noopener noreferrer">F&M</a>.</p>
-
-          <img src={profile} alt="Jaymes Downer" style={{ width: 90 + 'px', height: 90 + 'px', borderRadius: 100 + '%' }} />
         </div>
 
 

@@ -13,6 +13,7 @@ class ReadingPage extends React.Component {
         <SEO
           title="Reading List"
           keywords={[`Product`, `engineering`, `software`, `design`, `leadership`]}
+          description="Here are some of my favorite books on leadership and growth. If you want to talk about any of these books, or the ideas they represent, I love a great conversation!"
           ogimage="content/assets/profile-pic.jpg"
         />
 
@@ -22,10 +23,6 @@ class ReadingPage extends React.Component {
             📚
           </span>
         </h1>
-        
-        <blockquote>
-          <p>In light of recent events, I've adjusted my reading queue and am currently reading <i>'White Fragility - Why It's So Hard for White People to Talk About Racism'</i>.</p>
-        </blockquote>
 
         <p>Here are some of my favorite books on leadership and growth. If you want to talk about any of these books, or the ideas they represent, I love a great conversation! <a href={`https://twitter.com/jaymesdowner`} target="_blank" rel="noopener noreferrer">Hit me up on Twitter</a>.</p>
 
