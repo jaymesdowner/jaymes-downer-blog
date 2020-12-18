@@ -1,10 +1,8 @@
 ---
 path: how-i-work
-date: 2020-11-24T10:10:28.115Z
+date: 2020-11-24T12:56:29.352Z
 title: How I Work
-description: >-
-  Making the move from Wordpress to Gatsby + Netlify for my blog. Also,
-  sunsetting all my old posts.
+description: A breakdown of the tool and services I use in everyday life to do what I do.
 ---
 This is honestly more for me than for anyone else...
 
@@ -49,5 +47,3 @@ Below you will fine a list of some of the tools I use in different situations:
 `There was a time I used Notion for big life planning. I have a really cool dashboard page setup that allows me to drill into key life areas. I feel like I could go deep into this rabbit hole and go all in on Notion. This app has a cult following that has produced some incredible workflows and examples.`
 
 `I'm still not sold on it being a way to manage things I need to do. I more use it as a way to document where we are going.`
-
-... to be continued.
