@@ -34,7 +34,7 @@ class IndexPage extends React.Component {
         </p>
         <p><i><b>I’m passionate about technology, but have grown even more passionate about leadership and helping team members see and reach their full potential.</b></i></p>
         <p>Here are some of my <Link to="/reading/">favorite books about leadership and growth</Link>.</p>
-        <p>I <Link to="/blog/">ocassionally write</Link> about technology, growth, and leadership on my <Link to="/blog/">blog</Link>.</p>
+        <p>I ocassionally write about technology, growth, and leadership on my <Link to="/blog/">blog</Link>.</p>
 
         <p>If you're curious what it's like to work with me, I created a <Link to="/manager-read-me">manager read me</Link> to aid in onboarding new team members.</p>
 
