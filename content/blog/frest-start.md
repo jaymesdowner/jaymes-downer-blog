@@ -1,7 +1,7 @@
 ---
 path: fresh-start
 date: 2020-05-25T10:10:28.115Z
-title: Frest Start
+title: Fresh Start
 description: >-
   Making the move from Wordpress to Gatsby + Netlify for my blog. Also,
   sunsetting all my old posts.
