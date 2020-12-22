@@ -83,7 +83,9 @@ class Layout extends React.Component {
 const Wrapper = styled.div`
   min-height: 100vh;
   color: white;
-  background: #171616;
+  background-image: url('https://images.unsplash.com/photo-1579547945332-937d6d70dfb5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80');
+  background-size: cover;
+  background-attachment: fixed;
 `
 
 const Footer = styled.footer`

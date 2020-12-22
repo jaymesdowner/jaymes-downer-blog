@@ -75,7 +75,7 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#ffffff`,
         display: `minimal-ui`,
         // edit below
         icon: `content/assets/jaymes-downer.png`,
