@@ -10,7 +10,7 @@ class IndexPage extends React.Component {
     return (
       <Layout location={this.props.location}>
         <SEO
-          title="Head of Technology"
+          title="Head of Product"
           keywords={[`Product`, `engineering`, `software`, `design`, `leadership`]}
         />
 
@@ -22,10 +22,10 @@ class IndexPage extends React.Component {
         </h1>
 
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <p>My name is <i><b>Jaymes</b></i>, and I'm currently the Head of Technology at <a href="https://fm.co/" target="_blank" rel="noopener noreferrer">FM</a>.</p>
+          <p>My name is <i><b>Jaymes</b></i>, and I'm currently the Head of Product at <a href="https://fm.co/" target="_blank" rel="noopener noreferrer">FM</a>.</p>
         </div>
         
-        <p>We serve the creative community by providing platforms for the best stock music and footage at <a href="https://musicbed.com" target="_blank" rel="noopener noreferrer">Musicbed</a> and <a href="https://filmsupply.com" target="_blank" rel="noopener noreferrer">Filmsupply</a>.</p>
+        <p>We serve the creative community by providing platforms for the best music and cinematic footage licensing at <a href="https://musicbed.com" target="_blank" rel="noopener noreferrer">Musicbed</a> and <a href="https://filmsupply.com" target="_blank" rel="noopener noreferrer">Filmsupply</a>.</p>
 
         <p>Our Product Team is spread all around the world, and is full of some of the best people I’ve ever met.{" "}
           <span role="img" aria-label="raised hands emoji">
