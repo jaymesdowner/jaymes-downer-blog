@@ -74,7 +74,7 @@ class ManagerReadMePage extends React.Component {
         <h3>The Team</h3>
         <p>Our team is a group of diverse individuals with different backgrounds, beliefs, preferences, and communication styles. We share a mutual respect for each other, and trust that everyone will be treated equally.</p>
         <p>If an issue arises between you and a teammate, my expectation is that you will seek to resolve the issue on your own if possible. If a mediator is needed, I’m available.</p>
-        <p>If at any point you are treated unfairly by myself or anyone else on the team, please let me or my direct manager (Tanner Hearne) know immediately so we can make sure you are safe and the issue is resolved as quickly as possible.</p>
+        <p>If at any point you are treated unfairly by myself or anyone else on the team, please let me or our Head of People know immediately so we can make sure you are safe and the issue is resolved as quickly as possible.</p>
         <h3>Your Turn</h3>
         <p>Now that you have had a chance to read about me, I’d love to hear about you and your preferences. Maybe you have a document like this already. Maybe you have some of these things in your head, but not on paper. Whatever the case is, I would love for you to spend some time creating a similar document to help me understand how I can best relate to and lead you.</p>
         <p>If you need any help, please let me know!</p>
